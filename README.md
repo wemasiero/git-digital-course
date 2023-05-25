@@ -2,3 +2,4 @@
 # Salvando modificações no GIT
 # Salvando alterações no GIT
 # Comando GIT PULL #
+# Comando GIT Fetch #
